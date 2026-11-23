@@ -1,0 +1,4 @@
+.env
+vendor/
+_sauvegarde_avant_correctif/
+__pycache__/

@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "neo4j": {
+      "type": "http",
+      "url": "https://6761ef10.mcp-instances.neo4j.io"
+    }
+  }
+}

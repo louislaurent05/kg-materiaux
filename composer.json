@@ -1,0 +1,11 @@
+{
+    "name": "kg/materiaux",
+    "require": {
+        "laudis/neo4j-php-client": "^3.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        }
+    }
+}
